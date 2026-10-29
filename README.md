@@ -1,6 +1,6 @@
 # HealthBridge
 
-**Version 2.5 — International Premium UI**
+**Version 2.5 — Premium UI**
 
 HealthBridge is a privacy-first desktop wellness tracker for personal habit tracking, school/hackathon demonstrations and product showcases. It records sleep, activity, hydration and wellness time, compares them with personal goals, and produces transparent lifestyle insights.
 
